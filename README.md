@@ -3,11 +3,11 @@
 ## Hello world!
 This is my first try at github!
 
-My Github user page is at: https://github.com/kylewoodruff02
+My Github user page is at: https://github.com/kylewoodruff2
 
 My Github PAges repo can be found at :
-https://github.com/kylewoodruff02/kylewoodruff02github.io
+https://github.com/kylewoodruff02/kylewoodruff2github.io
 
 And, soon, you can see my cutom homepage at:
 
-http://kylewoodruff02.github.io/
+http://kylewoodruff2.github.io/
